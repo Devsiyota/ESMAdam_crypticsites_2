@@ -1,1 +1,3 @@
-These protein files are for beta-lactumage protein
+These protein files are for beta-lactumage protein. The amino acids beyond 6A of ligand are restrained using rmsd.
+Run with:
+python esmadam_cryptic_optimization_amberFF.py 
